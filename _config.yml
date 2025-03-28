@@ -15,6 +15,7 @@ sass:
   sass_dir: _sass
   
 remote_theme: samarsault/texture
+theme: texture
 permalink: /posts/:title/
 texture:
   title: 影玲工作室
@@ -38,7 +39,7 @@ texture:
 # - about.md
 
 # Build settings
-theme: texture
+#theme: texture
 
 plugins:
   - jekyll-seo-tag
