@@ -17,17 +17,18 @@ sass:
 permalink: /posts/:title/
 texture:
   title: 影玲工作室
-  tagline: 来一个slogan
+  tagline: 帮我想一个slogan
   date_format: "%b %-d, %Y"
   style: black
-  showNav: true
-  showPicker: true
+  showNav: false
+  showPicker: false
 
   # generate social links in footer
   social_links:
     #twitter: thelehhman
     github:  Aesculapius11
     #linkedIn: in/thelehhman
+    email: admin@shadowjade.studio
     rss: rss
  
 
