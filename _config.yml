@@ -13,7 +13,8 @@ baseurl: /
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
-
+  
+remote_theme: samarsault/texture
 permalink: /posts/:title/
 texture:
   title: 影玲工作室
