@@ -14,8 +14,7 @@ baseurl: /
 sass:
   sass_dir: _sass
   
-remote_theme: samarsault/texture
-theme: texture
+
 permalink: /posts/:title/
 texture:
   title: 影玲工作室
